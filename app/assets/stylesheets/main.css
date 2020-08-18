@@ -11,6 +11,7 @@ body {
 
 }
 .article {
+  list-style: none;
   background-color: #388659;
   color: white;
   overflow: hidden;
